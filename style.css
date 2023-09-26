@@ -1,0 +1,33 @@
+header{
+  background-color: black;
+  color: white;
+ height: 80px;
+  width: 1300px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+div{
+  display: flex;
+}
+h1{
+  text-align: center;
+  padding: 20px;
+}
+
+img{
+  margin: 5px;
+}
+p{
+  background-color: orange;
+  color: white;
+  height: 20px;
+  padding: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  position: relative;
+  top: 280px;
+  left: 130px;
+}
+#d{
+  margin-top:100px;
+}
